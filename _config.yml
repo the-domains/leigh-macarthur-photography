@@ -1,8 +1,4 @@
-cta:
-  version: null
-  bucket: null
-  domain: null
-name: Leigh MacArthur Photography
+favicon: null
 opengraph:
   image: null
   type: null
@@ -23,7 +19,7 @@ purpose: []
 typography_spectrum: 0.4865093
 color:
   saturation: 0.2841484
-  brandStrength: 1
+  brandStrength: 0.6774194
   lightness: 0.6104553
   brandColors:
     - '#F2F3EE'
@@ -32,9 +28,13 @@ color:
     - '#D2E0D7'
     - '#F0CCCC'
   rhythmicContrast: 0.05197133
-layout_spectrum: 0.2015177
+cta:
+  version: null
+  bucket: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
+layout_spectrum: 0.2015177
+name: Leigh MacArthur Photography
