@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Leigh MacArthur Photography]]></title>
         <description><![CDATA[Leigh MacArthur Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leigh-macarthur-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 13:55:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 08 Jun 2016 13:55:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leigh-macarthur-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0e93161-8812-4663-8646-c7be6c7295b0.jpg">]]></description>
+            <link>https://thegrid.ai/leigh-macarthur-photography/the-first-post-of-the-new-website-in-spring-has-to-be-of-che/index.html</link>
+            <guid isPermaLink="false">afca8ee9-13c7-4a57-bb93-4b9511a946b6</guid>
+            <pubDate>Wed, 08 Jun 2016 13:55:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Looking Over]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b7a136e-48b3-4750-83af-ebf1d250ef92.jpg">]]></description>
-            <link>undefinedlooking-over/index.html</link>
+            <link>https://thegrid.ai/leigh-macarthur-photography/looking-over/index.html</link>
             <guid isPermaLink="false">03077919-4510-4eb6-98f2-d420fc221c22</guid>
             <pubDate>Wed, 08 Jun 2016 13:55:22 GMT</pubDate>
         </item>
