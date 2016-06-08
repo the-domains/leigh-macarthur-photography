@@ -1,28 +1,40 @@
-name: Leigh MacArthur Photography
+layout_spectrum: 0.2015177
 favicon: null
-layout_spectrum: 0.19615
-typography_spectrum: 0.5220191981643438
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: Leigh MacArthur Photography
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 1
+  lightness: 0.6104553
+  saturation: 0.2841484
+  rhythmicContrast: 0.6475548
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.08175600203685462
-  lightness: 0.9398522565606982
-  saturation: 0.515344861196354
-  rhythmicContrast: 0.7501173063647002
-purpose: []
+    - '#F2F3EE'
+    - '#CF230F'
+    - '#8A8F8C'
+    - '#D2E0D7'
+    - '#F0CCCC'
+typography_spectrum: 0.4865093
