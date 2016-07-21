@@ -1,20 +1,20 @@
-typography_spectrum: 0.7710189982317388
+typography_spectrum: 0.4865093
 color:
   brandColors:
-    - '#6B0C22'
-    - '#D9042B'
-    - '#F4CB89'
-    - '#588C8C'
-    - '#011C26'
-  brandStrength: 0.3413716268260032
-  lightness: 0.10653447569347918
-  saturation: 0.6784926338586956
-  rhythmicContrast: 0.06076552998274565
+    - '#F2F3EE'
+    - '#CF230F'
+    - '#8A8F8C'
+    - '#D2E0D7'
+    - '#F0CCCC'
+  brandStrength: 0.375
+  lightness: 0.6104553
+  saturation: 0.9375
+  rhythmicContrast: 0
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.024326399201527238
+layout_spectrum: 0.2015177
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,11 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - id: d3f5c7fe-a595-4444-bfaa-442ff3a630d9
+    url: 2016-04-06-wikitree-or-starting-down-the-path-of-photography.html
+    name: Starting Down the Path of Photography
+    type: content
 favicon: null
 collections:
   - index:
