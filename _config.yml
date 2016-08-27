@@ -1,4 +1,3 @@
-layout_spectrum: 0.8687803994398564
 typography_spectrum: 0.5947329995688051
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8687803994398564
 analytics:
   google: null
   facebook: null
@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Starting Down the Path of Photography
-    id: d3f5c7fe-a595-4444-bfaa-442ff3a630d9
-    type: content
 favicon: null
 collections:
   - index:
