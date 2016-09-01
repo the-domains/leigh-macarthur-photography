@@ -1,21 +1,23 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Looking Over
-datePublished: '2016-06-08T13:55:22.904Z'
-dateModified: '2016-06-08T13:54:54.428Z'
-title: ''
-author: []
+datePublished: '2016-08-30T12:14:27.076Z'
 sourcePath: _posts/2016-06-06-looking-over.md
+inFeed: true
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-30T12:14:26.142Z'
+title: ''
+publisher:
+  name: Leigh MacArthur
+description: Looking Over
+inLanguage: null
+inNav: true
 starred: false
 url: looking-over/index.html
 _type: Article
 
 ---
 Looking Over
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b7a136e-48b3-4750-83af-ebf1d250ef92.jpg)
+![Looking Over](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3446a4dacb1f36b715cd4d5de405dcc661be48e3.jpg)
