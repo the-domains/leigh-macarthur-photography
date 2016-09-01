@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3766dda-50e0-4d57-a513-18ea242fb296.jpg
 name: Leigh MacArthur Photography
 cta:
   domain: null
@@ -31,7 +33,8 @@ navigation:
   - name: Contact Me
     url: 'http://www.leighmacarthur.com/contact'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/af41e899-be1e-4958-833a-bebd04b22d78.jpg
 collections:
   - index:
       path: /
