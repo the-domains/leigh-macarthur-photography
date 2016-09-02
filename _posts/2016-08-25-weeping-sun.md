@@ -1,14 +1,14 @@
 ---
-description: Weeping Sun
-dateModified: '2016-08-25T13:46:23.725Z'
-datePublished: '2016-08-25T13:47:06.887Z'
-title: 'Weeping Sun '
+datePublished: '2016-08-31T11:20:45.017Z'
+sourcePath: _posts/2016-08-25-weeping-sun.md
 author:
   - name: Leigh MacArthur
-publisher: {}
 via: {}
+dateModified: '2016-08-31T11:20:44.348Z'
+title: 'Weeping Sun '
+publisher: {}
+description: Weeping Sun
 starred: false
-sourcePath: _posts/2016-08-25-weeping-sun.md
 inFeed: true
 hasPage: false
 inNav: false
