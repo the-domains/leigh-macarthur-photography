@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T12:14:27.076Z'
+datePublished: '2016-08-31T21:07:34.366Z'
 sourcePath: _posts/2016-06-06-looking-over.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-30T12:14:26.142Z'
+dateModified: '2016-08-31T21:07:33.621Z'
 title: ''
 publisher:
   name: Leigh MacArthur
